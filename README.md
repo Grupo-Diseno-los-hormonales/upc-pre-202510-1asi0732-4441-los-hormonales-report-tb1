@@ -647,6 +647,90 @@ Incluye la elaboración de preguntas principales y secundarias dirigidas tanto a
 
 ### 2.2.2 Registro de entrevistas  
 
+**Segmento Objetivo: Médico**
+
+- **Entrevista 1** <br>
+  Nombre del entrevistado: Adriana García Pino <br>
+  Edad: 37 años <br>
+  Lugar de trabajo: San Isidro <br>
+  Entrevistador: Brenda Gamio <br>
+
+  Evidencia de la entrevista:
+  <img src="assets/images/entrevista/entrevista1-medico.png">
+  <br>
+
+  Resumen de la entrevista: <br>
+  La doctora, Adriana, destaca que muchos pacientes con enfermedades hormonales, como resistencia a la insulina o síndrome de ovario poliquístico (SOP), enfrentan dificultades para llevar un control adecuado de su condición debido al desconocimiento o a la falta de seguimiento constante, lo que genera complicaciones y desmotivación. Considera que la propuesta de una aplicación sería una solución positiva y necesaria, ya que facilitaría un mejor acompañamiento en el tratamiento y en los cambios de estilo de vida, empoderando a las pacientes y motivándolas al mostrar su progreso. Sugiere incorporar herramientas como recordatorios, seguimiento de síntomas, evolución de análisis, hábitos saludables y educación, además de incluir un espacio para interactuar con el profesional médico y recibir alertas importantes. Enfatiza que la aplicación debe ser clara, amigable y personalizada, evitando abrumar a las pacientes, y propone incluir aspectos relacionados con la salud mental y el estado emocional para hacer del proceso una experiencia integral y de apoyo.
+  <br><br>
+- **Entrevista 2**
+  Nombre del entrevistado:  <br>
+  Edad:  <br>
+  Lugar de trabajo:  <br>
+  Entrevistador:  <br>
+
+  Evidencia de la entrevista:
+  <img src="">
+  <br>
+
+  Resumen de la entrevista: <br>
+  
+  <br><br>
+- **Entrevista 3**
+  Nombre del entrevistado:  <br>
+  Edad:  <br>
+  Lugar de trabajo:  <br>
+  Entrevistador:  <br>
+
+  Evidencia de la entrevista:
+  <img src="">
+  <br>
+
+  Resumen de la entrevista: <br>
+  
+<br>
+
+**Segmento Objetivo: Paciente**
+
+- **Entrevista 1**
+  Nombre del entrevistado:  <br>
+  Edad:  <br>
+  Lugar de trabajo:  <br>
+  Entrevistador:  <br>
+
+  Evidencia de la entrevista:
+  <img src="">
+  <br>
+
+  Resumen de la entrevista: <br>
+  
+  <br><br>
+- **Entrevista 2**
+Nombre del entrevistado:  <br>
+  Edad:  <br>
+  Lugar de trabajo:  <br>
+  Entrevistador:  <br>
+
+  Evidencia de la entrevista:
+  <img src="">
+  <br>
+
+  Resumen de la entrevista: <br>
+  
+  <br><br>
+- **Entrevista 3**
+- Nombre del entrevistado:  <br>
+  Edad:  <br>
+  Lugar de trabajo:  <br>
+  Entrevistador:  <br>
+
+  Evidencia de la entrevista:
+  <img src="">
+  <br>
+
+  Resumen de la entrevista: <br>
+  
+
+
 ### 2.2.3 Análisis de entrevistas  
 
 ## 2.3 Needfinding  
